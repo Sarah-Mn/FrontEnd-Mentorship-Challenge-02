@@ -162,7 +162,7 @@ body .back .form-group .form-container .gender .gender-container .gender-item:ho
 }
 
 body .back .form-group .form-container .gender .gender-container .gender-item input {
-  margin: 0.1rem;
+  margin: 0.3rem;
 }
 
 body .back .form-group .form-container .gender .gender-container .gender-item input:hover, body .back .form-group .form-container .gender .gender-container .gender-item input:focus {
@@ -171,7 +171,7 @@ body .back .form-group .form-container .gender .gender-container .gender-item in
 }
 
 body .back .form-group .form-container .gender .gender-container .gender-item label {
-  margin: 0.9rem;
+  margin: 0.7rem;
   color: #666464;
 }
 
